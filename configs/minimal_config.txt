@@ -1,0 +1,19 @@
+ip domain name localhost
+clock timezone GMT 1 00
+username <prefered_username> privilege 15 secret 0 <set-your-password>
+hostname "localhost"
+ip dns server
+ip dns view default
+default dns forwarder
+default dns forwarding
+default domain lookup
+default domain name-server
+interface GigabitEthernet0/0/1
+no ip address
+ip address dhcp
+ip nat outside
+no shutdown
+exit
+ip route 0.0.0.0 0.0.0.0 GigabitEthernet0/0/1
+ip nat inside source list 197 interface GigabitEthernet0/0/1 overload
+access-list 197 permit ip any any
