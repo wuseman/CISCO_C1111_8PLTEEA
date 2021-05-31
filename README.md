@@ -12,6 +12,8 @@ With this said, let's go further! :)
 
 ### Ups! I was met by this message immediately when I was about to log in via cli :)
 
+NOC = Network Operations Center - Telia Sverige AB - Solna
+
     PASSWORD RECOVERY FUNCTIONALITY IS DISABLED
     Reset button push detected
     This functionality is disabled due to password protection
