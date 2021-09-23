@@ -222,8 +222,8 @@ Erase configuration files
     cat << EOF > /etc/conf.d/in.tftpd
     #/etc/init.d/in.tftpd
     # Created by: wuseman
-    INTFTPD_PATH="/mnt/tftp"
-    INTFTPD_OPTS="-p -u nobody -s ${INTFTPD_PATH} -vvv"
+    TFTPD_PATH="/mnt/tftp"
+    TFTPD_OPTS="-p -u nobody -s ${INTFTPD_PATH} -vvv"
     EOF
 
 ### Start tftp-hsa
