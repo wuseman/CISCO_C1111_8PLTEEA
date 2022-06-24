@@ -65,15 +65,15 @@ NOC = Network Operations Center - Telia Sverige AB - Solna
 
 Front 
 
-![Screenshot](pics/front.jpg)
+![front](https://user-images.githubusercontent.com/26827453/175438983-7a1b33ef-91b0-4118-8680-7b6c39ef43a6.jpg)
 
 Antennes are really huge. We need those for the dual sim 4G LTE
 
-![Screenshot](pics/antennes.jpg)
+![antennes](https://user-images.githubusercontent.com/26827453/175438989-be5c9920-7b8e-4698-860d-1ae1c19ea73b.jpg)
 
 Ports - Layer 2 
 
-![Screenshot](pics/layer2_ports.jpg)
+![layer2_ports](https://user-images.githubusercontent.com/26827453/175439003-d83da770-5641-42f3-9d4c-ad21ce5b7e24.jpg)
 
 Those ports are: 0/1/0 -> 0/1/7
 
@@ -114,21 +114,21 @@ Some default values I use in cli for easier managment and other useful stuff
 
 ### Setup Wizard - WebUI
 
-![Screenshot](pics/setup_wizard.png)
+![setup_wizard](https://user-images.githubusercontent.com/26827453/175439017-6cfd6949-2a76-4c73-a969-8bd3882b6cdd.png)
 
-![Screenshot](pics/setup_wizard2.png)
+![setup_wizard2](https://user-images.githubusercontent.com/26827453/175439019-4ed0733f-b6d1-4108-b602-b298bb65d8ce.png)
 
-![Screenshot](pics/setup_wizard3.png)
+![setup_wizard3](https://user-images.githubusercontent.com/26827453/175439020-8020be81-2042-443d-945d-77aefa7e7744.png)
 
-![Screenshot](pics/setup_wizard4.png)
+![setup_wizard4](https://user-images.githubusercontent.com/26827453/175439021-f92437d9-0a60-4c4b-b48d-dccc6ee681e5.png)
 
-![Screenshot](pics/setup_wizard_5_wan.png)
+![setup_wizard_5_wan](https://user-images.githubusercontent.com/26827453/175439030-2221684f-b3a2-4b39-b496-515462d34961.png)
 
-![Screenshot](pics/setup_wizard_6_finish.png)
+![setup_wizard_6_finish](https://user-images.githubusercontent.com/26827453/175439033-4ae7d06c-a18a-468b-93d1-32c82e336d09.png)
 
-![Screenshot](pics/setup_wizard_7_finished.png)
+![setup_wizard_7_finished](https://user-images.githubusercontent.com/26827453/175439034-80b1f440-15b3-4782-b9b6-c914e2ddbbcf.png)
 
-![Screenshot](pics/setup_wizard_8_testing.png)
+![setup_wizard_8_testing](https://user-images.githubusercontent.com/26827453/175439035-2a6067ec-6bed-418d-87b5-682617261bed.png)
 
 ### Setup Wizard - CLI
 
@@ -139,7 +139,7 @@ You will enter setup wizard by type
 
 Follow and Answer the questions, see begin of the cli wizard below
 
-![Screenshot](pics/setup_clig.png)
+![setup_clig](https://user-images.githubusercontent.com/26827453/175439996-fabd76bb-f5ae-40c1-9bfa-cb4102a05915.png)
 
 ### Accounts / Passwords
 
@@ -215,7 +215,8 @@ Erase configuration files
 
 # TFTP Managment
 
-![Screenshot](pics/boot_tftp.gif)
+![boot_tftp](https://user-images.githubusercontent.com/26827453/175440021-63b9bd12-f113-495f-be23-7f6dad30b217.gif)
+
 
 ###  TFTP Server (gnu/gentoo linux - tftp-hsa)
     
@@ -440,7 +441,7 @@ Interface
 
 ### Logs / Syslog
 
-![Screenshot](cisco_syslog_remote.gif)
+![Screenshot](pics/cisco_syslog_remote.gif)
 
 Configure Syslog 
 
