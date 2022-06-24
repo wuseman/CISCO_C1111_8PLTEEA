@@ -440,7 +440,7 @@ Interface
 
 ### Logs / Syslog
 
-![Screenshot](pics/cisco_syslog_remote.gif)
+![Screenshot](cisco_syslog_remote.gif)
 
 Configure Syslog 
 
